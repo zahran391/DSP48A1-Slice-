@@ -13,4 +13,8 @@ Pipeline Architecture: Strategically incorporated configurable pipeline register
 Dynamic Control & Multiplexers (OPMODE): Implemented flexible routing multiplexers controlled dynamically by operation modes to manage data paths efficiently.
 
 Advanced Verification: Developed a rigorous self-checking testbench environment featuring a golden model to continuously validate functional correctness, handling extensive randomized test vectors and edge cases.
+<img width="1600" height="870" alt="image" src="https://github.com/user-attachments/assets/2e0e98ee-40d6-4734-aa3f-2273d097362d" />
+<img width="1543" height="686" alt="image" src="https://github.com/user-attachments/assets/3c605f51-acd0-4113-b36f-f15b1ab516ea" />
+<img width="768" height="671" alt="image" src="https://github.com/user-attachments/assets/3a5d8cd8-ee7d-44c5-9ebe-8e0ec6dd52de" />
+<img width="1523" height="647" alt="image" src="https://github.com/user-attachments/assets/59d2c0f1-4895-4903-ae4a-dad3f3712802" />
 
