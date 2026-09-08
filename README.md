@@ -17,4 +17,7 @@ Advanced Verification: Developed a rigorous self-checking testbench environment 
 <img width="1543" height="686" alt="image" src="https://github.com/user-attachments/assets/3c605f51-acd0-4113-b36f-f15b1ab516ea" />
 <img width="768" height="671" alt="image" src="https://github.com/user-attachments/assets/3a5d8cd8-ee7d-44c5-9ebe-8e0ec6dd52de" />
 <img width="1523" height="647" alt="image" src="https://github.com/user-attachments/assets/59d2c0f1-4895-4903-ae4a-dad3f3712802" />
+<img width="555" height="498" alt="image" src="https://github.com/user-attachments/assets/c54697e3-e333-4926-a93a-8a7335e97317" />
+<img width="700" height="752" alt="image" src="https://github.com/user-attachments/assets/555f5fa5-7e68-472f-9e22-b26754b2a087" />
+
 
